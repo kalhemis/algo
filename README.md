@@ -1,2 +1,2 @@
 # algo
-Common algorithms.
+Competitive programming algorithms. 
