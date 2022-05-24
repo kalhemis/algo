@@ -3,7 +3,6 @@
  * Description: modular int struct for performing modular arithmetic more easily. 
 */ 
 
-
 const int MOD = 998244353;
 
 struct mod_int {
