@@ -6,10 +6,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define i64            long long
-#define pb             push_back
-#define endl           "\n"
-#define sz(a)          (int) a.size()
+#define i64             long long
+#define pb              push_back
+#define eb              emplace_back
+#define endl            "\n"
+#define sz(a)           (int) a.size()
 
 bool MULTI_TEST = 1;
 
