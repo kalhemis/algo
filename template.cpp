@@ -6,6 +6,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+#define i64             long long
+
 bool MULTI_TEST = 1;
 
 void solve() {
