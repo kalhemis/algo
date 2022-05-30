@@ -1,2 +1,2 @@
 # algo
-Competitive programming algorithms. 
+Algorithm Implementations
