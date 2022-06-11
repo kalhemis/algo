@@ -10,9 +10,9 @@ using namespace std;
 #define pii             pair<int, int>
 #define pll             pair<i64, i64>
 #define vi              vector<int> 
-#define vll             vector<i64>
+#define vi64            vector<i64>
 #define vvi             vector<vector<int>>
-#define vvll            vector<vector<i64>>
+#define vvi64           vector<vector<i64>>
 #define pb              push_back
 #define eb              emplace_back
 #define endl            "\n"
